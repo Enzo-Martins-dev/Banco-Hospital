@@ -21,3 +21,6 @@ Visou-se praticar e implementar consultas específicas em um banco de dados e, p
 * PostgreSQL: Sistema de Gerenciamento de Bancos de Dados (SGBD)
 * PLPGSQL: Linguagem de Consulta
 
+## Forma de Uso
+* Para gerar as tabelas e visualizar as informações localmente, importe o arquivo disponibilizado em 'Comandos_SQL/Projeto_Completo' em um banco de dados PostgreSQL.
+

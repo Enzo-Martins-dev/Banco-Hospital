@@ -12,7 +12,7 @@ O banco é eficaz para armazenar dados de serviços (cirurgias, consultas e inte
 Algumas dessas informações podem ser visualizadas usando as queries disponibilizadas em 'Comandos_SQL/Selects.sql'. Vale frisar que os dados aqui presentes são fictícios.
 
 ## Objetivos
-Visou-se praticar e implementar consultas específicas em um banco de dados e, principalmente, conceitos de modelagem, tais como:
+Visou-se praticar a consulta de dados em um banco de dados e, principalmente, conceitos de modelagem, tais como:
 * Relacionamentos Entre Diferentes Tabelas
 * Normalização
 * Restrições de Tipos e Valores

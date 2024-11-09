@@ -13,8 +13,8 @@ Algumas dessas informações podem ser visualizadas usando as queries disponibil
 
 ## Objetivos
 Visou-se praticar a consulta de dados em um banco de dados e, principalmente, conceitos de modelagem, tais como:
-* Relacionamentos Entre Diferentes Tabelas
 * Normalização
+* Relacionamentos Entre Diferentes Tabelas
 * Restrições de Tipos e Valores
 
 ## Tecnologias Utilizadas:

@@ -7,7 +7,7 @@
 ## Descrição
 Esse projeto se trata de um banco de dados para um hospital, conforme os requisitos especificados no arquivo de áudio que pode ser visto neste repositório. Os requisitos foram transcritos para pdf a fim de se ter uma melhor visualização.
 
-O banco é eficaz para armazenar dados de serviços (cirurgias, consultas e internações), salvando informações como: médicos, enfermeiros e pacientes envolvidos, data do procedimento, especialidade do médico, medicamentos utilizados e muito mais.  
+O banco é eficaz para armazenar dados de serviços (cirurgias, consultas e internações), salvando informações como: médicos, enfermeiros e pacientes envolvidos, data do procedimento, especialidade do médico, medicamentos utilizados e muito mais. Além disso, o banco foi construido de forma a permitir, no backend, uma fácil implementação de níveis de acesso para os usuários, que podem ser do tipo 'Administrador', 'Médico' ou 'Enfermeiro'.
 
 Algumas dessas informações podem ser visualizadas usando as queries disponibilizadas em 'Comandos_SQL/Selects.sql'. Vale frisar que os dados aqui presentes são fictícios.
 
